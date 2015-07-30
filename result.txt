@@ -1,0 +1,1 @@
+{ color: 'afas', number: '3', fortune: 'asfas' }

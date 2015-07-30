@@ -1,0 +1,45 @@
+{
+  "name": "constellation",
+  "version": "1.0.0",
+  "description": "node and js",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "bower": "^1.4.1",
+    "body-parser": "^1.13.2",
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "handlebars": "^3.0.3",
+    "formidable": "^1.0.17",
+    "express-session": "^1.11.3",
+    "http-proxy": "^1.11.1",
+    "mongodb": "^2.0.39",
+    "home": "^0.0.1",
+    "mongoose": "^4.0.7",
+    "mysql": "^2.8.0",
+    "redis": "^0.12.1",
+    "multer": "^0.1.8",
+    "mymysql": "^0.1.1",
+    "supervisor": "^0.7.0",
+    "user-agent-parser": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/feichangtutu/constellation.git"
+  },
+  "keywords": [
+    "anglulat",
+    "bootstarp",
+    "node"
+  ],
+  "author": "Yanni Jia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feichangtutu/constellation/issues"
+  },
+  "homepage": "https://github.com/feichangtutu/constellation#readme"
+}

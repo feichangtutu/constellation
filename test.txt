@@ -1,0 +1,1 @@
+{ color: 'a', number: '2', fortune: 'a' }{ color: 'a', number: '2', fortune: 'b' }{ color: 'b', number: '4', fortune: 'daffds' }{ color: 'afas', number: '3', fortune: 'asfas' }
